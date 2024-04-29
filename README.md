@@ -269,7 +269,7 @@ Open `powershell` again with **admin** privileges and enter the following comman
 wsl --set-default-version 2
 ```
 
-Let's install our Linux distribution. We recommend Ubuntu 18.04 which you can download **[HERE](https://www.microsoft.com/store/apps/9N9TNGVNDL3Q)**. It will take you directly to the Microsoft store.
+Let's install our Linux distribution. We recommend Ubuntu 22.04 which you can download **[HERE]((https://apps.microsoft.com/detail/9pn20msr04dw?hl=en-us&gl=US))**. It will take you directly to the Microsoft store.
 
 Once you reach the Microsoft store, click the `Get` button to download and install Ubuntu 18.04.
 
